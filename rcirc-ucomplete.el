@@ -5,6 +5,7 @@
 ;; Author: Phil Hagelberg <technomancy@gmail.com>
 ;; Version: 1.0.1
 ;; Keywords: rcirc, irc
+;; URL: https://github.com/technomancy/rcirc-ucomplete
 
 ;; This file is NOT part of GNU Emacs.
 
